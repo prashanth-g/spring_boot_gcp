@@ -23,6 +23,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-jdbc'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'org.springframework.cloud:spring-cloud-gcp-starter'
+    implementation 'org.springframework.cloud:spring-cloud-gcp-starter-sql-mysql'
     implementation 'org.springframework.cloud:spring-cloud-gcp-starter-pubsub'
     implementation 'org.springframework.cloud:spring-cloud-gcp-starter-storage'
     implementation 'org.springframework.cloud:spring-cloud-starter-sleuth'
