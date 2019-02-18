@@ -10,6 +10,6 @@ import org.springframework.cloud.gcp.data.spanner.core.mapping.Table;
 @AllArgsConstructor
 @NoArgsConstructor
 public class SpannerReservation {
-    private int id;
+    private String id;
     private String name;
 }
