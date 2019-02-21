@@ -1,0 +1,8 @@
+
+squid:UselessImportCheck"QRemove this unused import 'com.prashanth.spring.gcloud.model.SpannerReservation'.(Šö˜Ïùÿÿÿÿ8îıÉß-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°®è8·³Éß-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°®è8îıÉß-
+_squid:UselessImportCheck
+"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8îıÉß-
+Xsquid:S1068";Remove this unused "pubSubPublisherTemplate" private field.(”Î•;8¡âÌß-
+Zsquid:S1068"<Remove this unused "pubSubSubscriberTemplate" private field.(ŒÁ8¡âÌß-
