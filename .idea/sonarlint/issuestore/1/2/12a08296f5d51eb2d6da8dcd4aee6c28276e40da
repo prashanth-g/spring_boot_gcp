@@ -1,5 +1,6 @@
 
-[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ü§ûŞ-
 esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°®è8Ü§ûŞ-
-wsquid:UselessImportCheck	"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8Ü§ûŞ-
 usquid:UselessImportCheck"JRemove this unused import 'com.prashanth.spring.gcloud.model.Reservation'.(ËÁëˆ8Ü§ûŞ-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ü§ûŞ-
+wsquid:UselessImportCheck	"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8Ü§ûŞ-
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(°®è8¥ı§ñ-
