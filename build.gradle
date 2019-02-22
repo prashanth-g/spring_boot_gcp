@@ -26,6 +26,8 @@ dependencies {
     implementation 'org.springframework.cloud:spring-cloud-gcp-starter-sql-mysql'
     implementation 'org.springframework.cloud:spring-cloud-gcp-starter-pubsub'
     implementation 'org.springframework.cloud:spring-cloud-gcp-starter-storage'
+    implementation 'org.springframework.cloud:spring-cloud-gcp-starter-trace'
+    implementation 'org.springframework.cloud:spring-cloud-gcp-starter-logging'
     implementation 'org.springframework.cloud:spring-cloud-starter-sleuth'
     implementation 'org.springframework.cloud:spring-cloud-gcp-starter-data-spanner'
     compileOnly 'org.projectlombok:lombok'
