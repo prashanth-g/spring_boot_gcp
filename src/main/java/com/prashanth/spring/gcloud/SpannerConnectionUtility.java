@@ -1,15 +1,12 @@
 package com.prashanth.spring.gcloud;
 
-import com.prashanth.spring.gcloud.model.Reservation;
 import com.prashanth.spring.gcloud.model.SpannerReservation;
 import com.prashanth.spring.gcloud.repository.SpannerReservationRepository;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.event.EventListener;
-import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 
-import java.util.List;
 import java.util.stream.Stream;
 
 @Log4j2
